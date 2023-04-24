@@ -4,13 +4,13 @@ const drowButton = document.getElementById("drowButton");
 const fortuneImage = document.getElementById("fortuneImage");
 
 const omikujiImages = [
-  "/大吉.jpeg",
-  "/吉.jpeg",
-  "/中吉.jpeg",
-  "/小吉.jpeg",
-  "/末吉.jpeg",
-  "/凶.jpeg",
-  "/大凶.jpeg"
+  "images/大吉.jpeg",
+  "images/吉.jpeg",
+  "images/中吉.jpeg",
+  "images/小吉.jpeg",
+  "images/末吉.jpeg",
+  "images/凶.jpeg",
+  "images/大凶.jpeg"
 ];
 
 function getRondomInt(max) {
