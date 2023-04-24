@@ -4,13 +4,13 @@ const drowButton = document.getElementById("drowButton");
 const fortuneImage = document.getElementById("fortuneImage");
 
 const omikujiImages = [
-  "https://github.com/utatsu-daiki/utatsu-daiki.github.io/blob/main/%E4%B8%AD%E5%90%89.jpeg",
-  "%E4%B8%AD%E5%90%89.jpeg",
-  "中吉.jpeg",
-  "小吉.jpeg",
-  "末吉.jpeg",
-  "凶.jpeg",
-  "大凶.jpeg",
+  "/大吉.jpeg",
+  "/吉.jpeg",
+  "/中吉.jpeg",
+  "/小吉.jpeg",
+  "/末吉.jpeg",
+  "/凶.jpeg",
+  "/大凶.jpeg"
 ];
 
 function getRondomInt(max) {
