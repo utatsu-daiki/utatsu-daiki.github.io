@@ -1,0 +1,50 @@
+body{
+    font-family: "Arial",sans-serif;
+    text-align: center;
+    background-color: green;
+    color: #333;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+#mainContent{
+    background-color: white;
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1{
+    font-size: 60px;
+    margin-bottom: 1em;
+}
+
+button{
+    background-color: green;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+#result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 100%;
+    margin: 20px 0;
+}
+
+#fortuneImage{
+    max-width: 80%;
+    max-height: 80%;
+    display: none;
+}
