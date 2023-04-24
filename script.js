@@ -5,7 +5,7 @@ const fortuneImage = document.getElementById("fortuneImage");
 
 const omikujiImages = [
   "https://github.com/utatsu-daiki/utatsu-daiki.github.io/blob/main/%E4%B8%AD%E5%90%89.jpeg",
-  "https://github.com/utatsu-daiki/utatsu-daiki.github.io/blob/main/%E4%B8%AD%E5%90%89.jpeg",
+  "%E4%B8%AD%E5%90%89.jpeg",
   "中吉.jpeg",
   "小吉.jpeg",
   "末吉.jpeg",
